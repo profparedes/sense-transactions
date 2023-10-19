@@ -4,7 +4,7 @@
 Sense Transactions is a web application for managing transactions. With this app, users can create new transactions, edit existing ones, and delete transactions. Additionally, they can filter transactions based on type or category.
 
 ## Demo
-You can access the live demo of the project at https://sense.fabioparedes.dev
+You can access the live demo of the project at https://sense.fabioparedes.dev.
 
 ## Technologies Used
 The project was developed using the following technologies:
